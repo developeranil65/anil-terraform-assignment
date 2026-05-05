@@ -152,7 +152,7 @@ Terraform will perform the following actions:
 Plan: 1 to add, 0 to change, 0 to destroy.
 ```
 
-![Terraform Plan Output](./images/image.png)
+![Terraform Plan Output](./images/plan.png)
 
 ---
 
